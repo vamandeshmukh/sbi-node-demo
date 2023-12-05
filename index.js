@@ -1,11 +1,13 @@
 
-// on CMD, run 
-// npm start 
-
 console.log('node demo works!');
 
-// copied from - 
+// steps 
+// 1. copy from - 
 // https://www.npmjs.com/package/express
+// 2. edit package.json 
+// 3. run npm install on cmd 
+// 4. run on cmd npm start 
+
 
 const express = require('express')
 const app = express()
