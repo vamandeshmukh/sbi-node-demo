@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "Vaman Deshmukh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+
+  }
 }
+
